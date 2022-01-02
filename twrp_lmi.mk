@@ -22,7 +22,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := lmi
-PRODUCT_NAME := omni_lmi
+PRODUCT_NAME := twrp_lmi
 PRODUCT_BRAND := POCO
 PRODUCT_MODEL := POCO F2 Pro
 PRODUCT_MANUFACTURER := Xiaomi
